@@ -1,0 +1,22 @@
+.title{
+  margin: 2%;
+  text-align: center;
+}
+
+.description{
+  width:fit-content;
+  margin: auto;
+  background:#ececec;
+  padding:20px;
+}
+
+.sampleCard{
+  width: 60%;
+  padding-left: 10px;
+  margin: auto;
+  font-size: 150%;
+}
+
+.normal {
+  background: #89F279;
+}

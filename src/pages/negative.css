@@ -1,0 +1,47 @@
+
+.title{
+  margin: 2%;
+  text-align: center;
+}
+
+.description{
+  width: fit-content;
+  margin: auto;
+  background:#ececec;
+  padding:20px;
+}
+
+
+.sampleCard{
+  width: 60%;
+  padding-left: 10px;
+  margin: auto;
+  font-size: 150%;
+}
+
+.formbody{
+  padding: 30px;
+}
+
+.normal {
+  font-family: Georgia, sans-serif;
+  margin-top: 4em;
+  text-align: center;
+}
+
+.welcome {
+  height: 512px;
+  background: url(../assets/yay.jpg) no-repeat center 0;
+  background-size: 512px 512px;
+}
+
+.list {
+  font-size: 1.2em;
+  margin: 1.8em 0 0;
+  list-style: none;
+  line-height: 1.5em;
+}
+
+.list code {
+  background: #f7f7f7;
+}
